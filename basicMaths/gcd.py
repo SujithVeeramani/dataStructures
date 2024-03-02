@@ -5,4 +5,4 @@ for i in range(1,min(x,y)+1):
         gcd = i
     else: 
         pass
-print(gcd)
+print(gcd) 
